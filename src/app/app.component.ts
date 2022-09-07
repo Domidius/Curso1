@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'El Curso musculoso 1';
+  name = 'Daniel aprendiendo del Curso musculoso 1';
 }
